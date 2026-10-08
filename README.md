@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Engineering student and developer exploring code, algorithms, and AI.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ctrl%2BZ+my+mistakes;Code%2C+coffee%2C+sleep%2C+repeat;Always+compiling+ideas;Git+push+to+success" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Git+push+to+success" alt="Typing SVG" />
 </p>
 
 ---
