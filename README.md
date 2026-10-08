@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Your Mayy</h1>
-<h3 align="center">A passionate Computer Science student and developer exploring code, algorithms, and AI.</h3>
+<h3 align="center">A passionate Computer Engineering student and developer exploring code, algorithms, and AI.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+cool+things+with+Code;CS+Student+%26+Developer;Exploring+C%2++%26+Python;Turning+ideas+into+realities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+the+future+with+code;CS+student+%26+developer;Turning+logic+into+reality;C%2B%2B+%26+Python+enthusiast" alt="Typing SVG" />" alt="Typing SVG" />
 </p>
 
 ---
